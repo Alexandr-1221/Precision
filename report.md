@@ -24,7 +24,7 @@ public class Main {
 
 Тест 1:
 
-Расчитать сумму двух видов бонуса, где:
+Рассчитать сумму двух видов бонуса, где:
 ```
     double regularBonus = 0.3;
     double specialBonus = 0.6;
